@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885339415197",
+    "project_id": "fastsongeuorg",
+    "storage_bucket": "fastsongeuorg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885339415197:android:f15567af61b5c3639b2a74",
+        "android_client_info": {
+          "package_name": "com.sd.freeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJaUbn8nf5G1_9zQJep1fjpo3XWc5yPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
