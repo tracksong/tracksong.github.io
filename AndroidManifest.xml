@@ -36,7 +36,7 @@
 <meta-data android:name="com.sd.freeapp.webview" android:value="ca-app-pub-7657467328344316~3601955853" />
 <meta-data android:name="com.sd.freeapp.app" android:value="ca-app-pub-7657467328344316~3601955853" />
 <meta-data android:name="com.sd.freeapp" android:value="ca-app-pub-7657467328344316~3601955853" />
-<meta-data android:name="admob" pub="6827901881006590" />
+<meta-data android:name="admob" pub="7657467328344316" />
 <meta-data   android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-7657467328344316~3601955853"/>
     <meta-data   android:name="com.google.android.gms.ads.APPLICATION_ID"
